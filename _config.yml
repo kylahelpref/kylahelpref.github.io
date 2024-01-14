@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Kyla's help reference
+description: [describe the thing and the other thing]
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
+color_scheme: dark
+url: https://kylahelpref.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
