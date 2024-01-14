@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sample Instructions 1
+title: kingkong mega lipoma
 parent: Sample Section 1
 ---
 
